@@ -1,0 +1,49 @@
+node_modules/
+
+dist/
+
+.env
+
+.DS_Store
+
+.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+lerna-debug.log**
+/coverage/
+# Dependency directories
+jspm_packages/
+.babelrc
+.cache/
+.next/
+.nuxt/
+out/
+/build/
+# Optional npm cache directory
+.npm/
+# Optional eslint cache
+.eslintcache
+# Optional stylelint cache
+.stylelintcache
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+# Parcel-bundler cache
+.cache/parcel-cache/
+# SvelteKit build / cache
+.svelte-kit/
+/build/
+# Storybook build outputs
+.out/storybook-static/
+# Temporary folders
+tmp/
+temp/
